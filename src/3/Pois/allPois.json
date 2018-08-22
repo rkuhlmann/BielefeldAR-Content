@@ -1,0 +1,36 @@
+[
+	{
+		"name" : "Doktorplatz 5",
+		"description" : "Die “Münze”, um 1610 erbaut und als Apotheke und Arztpraxis genutzt.",
+		"locationMapLat" : 51.852107,
+		"locationMapLong" : 8.292081,
+		"thumbnail" : "3/Pois/1/thumbnail.JPG",
+		"markerImage" : "3/Pois/1/markerImage.jpg",
+		"markerIds" : [
+			"marker1"
+		],
+		"contents" : [
+			{
+				"name" : "Sprecher",
+				"contentType" : "AUDIO",
+				"mediaPath" : "3/Pois/1/audio.json"
+			},
+			{
+				"name" : "Beschreibungstext",
+				"contentType" : "TEXT",
+				"mediaPath" : "3/Pois/1/description.json"
+			},	
+			{
+				"name" : "Galery",
+				"contentType" : "GALERY",
+				"mediaPath" : "3/Pois/1/galery/galery.json" 
+			},
+			{
+				"name" : "3dAnimation",
+				"contentType" : "WIKITUDE_AUGMENTATION",
+				"mediaPath" : "3/Pois/1/augmentation/augmentation.json"
+			}
+		]
+	}
+
+]

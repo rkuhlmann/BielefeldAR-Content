@@ -1,0 +1,36 @@
+[
+	{
+		"name" : "In der Halle 2",
+		"description" : "Das Hemmelmannsche Haus, 1567 erbaut. Mit Darstellungen der menschlichen Untugenden.",
+		"locationMapLat" : 51.833771,
+		"locationMapLong" : 8.309984,
+		"thumbnail" : "2/Pois/1/thumbnail.png",
+		"markerImage" : "2/Pois/1/markerImage.png",
+		"markerIds" : [
+			"marker1"
+		],
+		"contents" : [
+			{
+				"name" : "Sprecher",
+				"contentType" : "AUDIO",
+				"mediaPath" : "2/Pois/1/audio.json"
+			},
+			{
+				"name" : "Beschreibungstext",
+				"contentType" : "TEXT",
+				"mediaPath" : "2/Pois/1/description.json"
+			},	
+			{
+				"name" : "Galery",
+				"contentType" : "GALERY",
+				"mediaPath" : "2/Pois/1/galery/galery.json" 
+			},
+			{
+				"name" : "3dAnimation",
+				"contentType" : "WIKITUDE_AUGMENTATION",
+				"mediaPath" : "2/Pois/1/augmentation/augmentation.json"
+			}
+		]
+	}
+
+]

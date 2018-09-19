@@ -32,8 +32,8 @@
 		"description": "Die bielefelder Kunsthalle....",
 		"locationMapLat": 52.018156,
 		"locationMapLong": 8.525783,
-		"thumbnail": "1/Pois/2/thumbnail.png",
-		"markerImage": "1/Pois/2/markerImage.png",
+		"thumbnail": "1/Pois/Kunsthalle/thumbnail.png",
+		"markerImage": "1/Pois/Kunsthalle/markerImage.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -41,17 +41,17 @@
 			{
 				"name": "Sprecher",
 				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/2/audio.json"
+				"mediaPath": "1/Pois/Kunsthalle/audio.json"
 			},
 			{
 				"name": "Beschreibungstext",
 				"contentType": "TEXT",
-				"mediaPath": "1/Pois/2/description.json"
+				"mediaPath": "1/Pois/Kunsthalle/description.json"
 			},
 			{
 				"name": "Galery",
 				"contentType": "GALERY",
-				"mediaPath": "1/Pois/2/galery/galery.json"
+				"mediaPath": "1/Pois/Kunsthalle/galery/galery.json"
 			}
 		]
 	}

@@ -1,39 +1,11 @@
 [
 	{
-		"name" : "In der Halle 2",
-		"description" : "Das Hemmelmannsche Haus, 1567 erbaut. Mit Darstellungen der menschlichen Untugenden.",
-		"locationMapLat" : 51.833771,
-		"locationMapLong" : 8.309984,
-		"thumbnail" : "1/Pois/1/thumbnail.png",
-		"markerImage" : "1/Pois/1/markerImage.png",
-		"markerIds" : [
-			"marker1"
-		],
-		"contents" : [
-			{
-				"name" : "Sprecher",
-				"contentType" : "AUDIO",
-				"mediaPath" : "1/Pois/1/audio.json"
-			},
-			{
-				"name" : "Beschreibungstext",
-				"contentType" : "TEXT",
-				"mediaPath" : "1/Pois/1/description.json"
-			},	
-			{
-				"name" : "Galery",
-				"contentType" : "GALERY",
-				"mediaPath" : "1/Pois/1/galery/galery.json" 
-			}
-		]
-	},
-	{
 		"name": "Kunsthalle",
 		"description": "Die bielefelder Kunsthalle....",
 		"locationMapLat": 52.018156,
 		"locationMapLong": 8.525783,
-		"thumbnail": "1/Pois/Kunsthalle/thumbnail.png",
-		"markerImage": "1/Pois/Kunsthalle/markerImage.png",
+		"thumbnail": "1/Pois/1/thumbnail.png",
+		"markerImage": "1/Pois/1/markerImage.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -41,19 +13,300 @@
 			{
 				"name": "Sprecher",
 				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/Kunsthalle/audio.json"
+				"mediaPath": "1/Pois/1/audio.json"
 			},
 			{
 				"name": "Beschreibungstext",
 				"contentType": "TEXT",
-				"mediaPath": "1/Pois/Kunsthalle/description.json"
+				"mediaPath": "1/Pois/1/description.json"
 			},
 			{
 				"name": "Galery",
 				"contentType": "GALERY",
-				"mediaPath": "1/Pois/Kunsthalle/galery/galery.json"
+				"mediaPath": "1/Pois/1/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Kunsthallenpark",
+		"description": "Der Kunsthallenpark neben der Kunsthalle...",
+		"locationMapLat": 52.018707,
+		"locationMapLong": 8.526739,
+		"thumbnail": "1/Pois/2/thumbnail.png",
+		"markerImage": "1/Pois/2/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/2/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/2/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/2/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Alter Markt",
+		"description": "Der alte Markt... TODO",
+		"locationMapLat": 52.020394,
+		"locationMapLong": 8.532010,
+		"thumbnail": "1/Pois/3/thumbnail.png",
+		"markerImage": "1/Pois/3/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/3/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/3/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/3/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Theater am Alten Markt",
+		"description": "... TODO",
+		"locationMapLat": 52.020509,
+		"locationMapLong": 8.531994,
+		"thumbnail": "1/Pois/4/thumbnail.png",
+		"markerImage": "1/Pois/4/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/4/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/4/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/4/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Leineweberdenkmal",
+		"description": "... TODO",
+		"locationMapLat": 52.021196,
+		"locationMapLong": 8.532866,
+		"thumbnail": "1/Pois/5/thumbnail.png",
+		"markerImage": "1/Pois/5/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/5/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/5/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/5/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Stadttheater",
+		"description": "... TODO",
+		"locationMapLat": 52.020660,
+		"locationMapLong": 8.534918,
+		"thumbnail": "1/Pois/6/thumbnail.png",
+		"markerImage": "1/Pois/6/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/6/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/6/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/6/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Rathaus",
+		"description": "... TODO",
+		"locationMapLat": 52.021102,
+		"locationMapLong": 8.534961,
+		"thumbnail": "1/Pois/7/thumbnail.png",
+		"markerImage": "1/Pois/7/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/7/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/7/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/7/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Filmhaus",
+		"description": "... TODO",
+		"locationMapLat": 52.021234,
+		"locationMapLong": 8.539452,
+		"thumbnail": "1/Pois/8/thumbnail.png",
+		"markerImage": "1/Pois/8/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/8/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/8/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/8/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Kamera",
+		"description": "... TODO",
+		"locationMapLat": 52.027290,
+		"locationMapLong": 8.534039,
+		"thumbnail": "1/Pois/9/thumbnail.png",
+		"markerImage": "1/Pois/9/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/9/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/9/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/9/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Lichtwerk",
+		"description": "... TODO",
+		"locationMapLat": 52.022171,
+		"locationMapLong": 8.544520,
+		"thumbnail": "1/Pois/10/thumbnail.png",
+		"markerImage": "1/Pois/10/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/10/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/10/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/10/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Historisches Museum",
+		"description": "... TODO",
+		"locationMapLat": 52.022428,
+		"locationMapLong": 8.544155,
+		"thumbnail": "1/Pois/11/thumbnail.png",
+		"markerImage": "1/Pois/11/markerImage.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/11/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/11/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/11/galery/galery.json"
 			}
 		]
 	}
+	
 
 ]

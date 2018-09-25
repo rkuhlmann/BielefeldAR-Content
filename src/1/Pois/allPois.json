@@ -5,7 +5,7 @@
 		"locationMapLat": 52.018156,
 		"locationMapLong": 8.525783,
 		"thumbnail": "1/Pois/1/thumbnail.png",
-		"markerImage": "1/Pois/1/markerImage.png",
+		"markerImage": "1/Pois/1/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -33,7 +33,7 @@
 		"locationMapLat": 52.018707,
 		"locationMapLong": 8.526739,
 		"thumbnail": "1/Pois/2/thumbnail.png",
-		"markerImage": "1/Pois/2/markerImage.png",
+		"markerImage": "1/Pois/2/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -61,7 +61,7 @@
 		"locationMapLat": 52.020394,
 		"locationMapLong": 8.532010,
 		"thumbnail": "1/Pois/3/thumbnail.png",
-		"markerImage": "1/Pois/3/markerImage.png",
+		"markerImage": "1/Pois/3/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -89,7 +89,7 @@
 		"locationMapLat": 52.020509,
 		"locationMapLong": 8.531994,
 		"thumbnail": "1/Pois/4/thumbnail.png",
-		"markerImage": "1/Pois/4/markerImage.png",
+		"markerImage": "1/Pois/4/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -117,7 +117,7 @@
 		"locationMapLat": 52.021196,
 		"locationMapLong": 8.532866,
 		"thumbnail": "1/Pois/5/thumbnail.png",
-		"markerImage": "1/Pois/5/markerImage.png",
+		"markerImage": "1/Pois/5/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -145,7 +145,7 @@
 		"locationMapLat": 52.020660,
 		"locationMapLong": 8.534918,
 		"thumbnail": "1/Pois/6/thumbnail.png",
-		"markerImage": "1/Pois/6/markerImage.png",
+		"markerImage": "1/Pois/6/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -173,7 +173,7 @@
 		"locationMapLat": 52.021102,
 		"locationMapLong": 8.534961,
 		"thumbnail": "1/Pois/7/thumbnail.png",
-		"markerImage": "1/Pois/7/markerImage.png",
+		"markerImage": "1/Pois/7/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -201,7 +201,7 @@
 		"locationMapLat": 52.021234,
 		"locationMapLong": 8.539452,
 		"thumbnail": "1/Pois/8/thumbnail.png",
-		"markerImage": "1/Pois/8/markerImage.png",
+		"markerImage": "1/Pois/8/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -229,7 +229,7 @@
 		"locationMapLat": 52.027290,
 		"locationMapLong": 8.534039,
 		"thumbnail": "1/Pois/9/thumbnail.png",
-		"markerImage": "1/Pois/9/markerImage.png",
+		"markerImage": "1/Pois/9/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -257,7 +257,7 @@
 		"locationMapLat": 52.022171,
 		"locationMapLong": 8.544520,
 		"thumbnail": "1/Pois/10/thumbnail.png",
-		"markerImage": "1/Pois/10/markerImage.png",
+		"markerImage": "1/Pois/10/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -285,7 +285,7 @@
 		"locationMapLat": 52.022428,
 		"locationMapLong": 8.544155,
 		"thumbnail": "1/Pois/11/thumbnail.png",
-		"markerImage": "1/Pois/11/markerImage.png",
+		"markerImage": "1/Pois/11/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],

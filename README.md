@@ -15,7 +15,7 @@ Jede Tour-Station hat einen Ordner (1=Kunsthalle 2=Kusthallenpark usw.)
 ## Stations-Ordner (1, 2, 3 usw.)
 Hier werden alle Bilder und Audio-Dateien zu der Station gespeichert; evtl. müssen zusätzlich die Dateipfade in den einzelen JSON-Dateien geändert werden (galery.json, audio.json usw.)
 
-## allPois.json
+## allPois.json (liegt im Pois-Ordner)
 Hier werden alle Tour-Stationen definiert
 Ein ein Tour-Station ist wie folgt aufgebaut:
 ```	

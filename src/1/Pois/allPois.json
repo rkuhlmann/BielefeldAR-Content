@@ -196,10 +196,10 @@
 		]
 	},
 	{
-		"name": "Filmhaus",
+		"name": "Ravensberger Park",
 		"description": "... TODO",
-		"locationMapLat": 52.021234,
-		"locationMapLong": 8.539452,
+		"locationMapLat": 52.022474,
+		"locationMapLong": 8.545222,
 		"thumbnail": "1/Pois/8/thumbnail.png",
 		"markerImage": "1/Pois/8/thumbnail.png",
 		"markerIds": [
@@ -224,12 +224,12 @@
 		]
 	},
 	{
-		"name": "Kamera",
+		"name": "Historisches Museum",
 		"description": "... TODO",
-		"locationMapLat": 52.027290,
-		"locationMapLong": 8.534039,
-		"thumbnail": "1/Pois/9/thumbnail.png",
-		"markerImage": "1/Pois/9/thumbnail.png",
+		"locationMapLat": 52.022428,
+		"locationMapLong": 8.544155,
+		"thumbnail": "1/Pois/9/Thumbnail.png",
+		"markerImage": "1/Pois/9/Thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -280,10 +280,10 @@
 		]
 	},
 	{
-		"name": "Historisches Museum",
+		"name": "Kamera",
 		"description": "... TODO",
-		"locationMapLat": 52.022428,
-		"locationMapLong": 8.544155,
+		"locationMapLat": 52.027290,
+		"locationMapLong": 8.534039,
 		"thumbnail": "1/Pois/11/thumbnail.png",
 		"markerImage": "1/Pois/11/thumbnail.png",
 		"markerIds": [
@@ -304,6 +304,34 @@
 				"name": "Galery",
 				"contentType": "GALERY",
 				"mediaPath": "1/Pois/11/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Filmhaus",
+		"description": "... TODO",
+		"locationMapLat": 52.021234,
+		"locationMapLong": 8.539452,
+		"thumbnail": "1/Pois/12/thumbnail.png",
+		"markerImage": "1/Pois/12/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/12/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/12/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/12/galery/galery.json"
 			}
 		]
 	}

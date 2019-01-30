@@ -1,32 +1,7 @@
 [
 	{
-		"path" : "1/Pois/8/galery/galery_1_0.png",
-		"title" : "In der Halle 2",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/8/galery/galery_1_1.png",
-		"title" : "Dieses Element steht für Stolz",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/8/galery/galery_1_2.png",
-		"title" : "Dieses Element steht für Völlerei",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/8/galery/galery_1_3.png",
-		"title" : "Dieses Element steht für Habgier / Geiz",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/8/galery/galery_1_4.png",
-		"title" : "Dieses Element steht für Hinterhältigkeit / Doppelzüngigkeit",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/8/galery/galery_1_5.png",
-		"title" : "Dieses Element steht für Diebstahl",
+		"path" : "1/Pois/8/galery/thumbnail.png",
+		"title" : "Ravensberger Park",
 		"description" : ""	
 	}
 ]

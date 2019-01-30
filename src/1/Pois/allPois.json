@@ -228,8 +228,8 @@
 		"description": "... TODO",
 		"locationMapLat": 52.022428,
 		"locationMapLong": 8.544155,
-		"thumbnail": "1/Pois/9/Thumbnail.png",
-		"markerImage": "1/Pois/9/Thumbnail.png",
+		"thumbnail": "1/Pois/9/thumbnail.png",
+		"markerImage": "1/Pois/9/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -338,10 +338,10 @@
 	{
 		"name": "Irish Pub",
 		"description": "... TODO",
-		"locationMapLat": 52.021234,//TODO andere Koordinaten
-		"locationMapLong": 8.539452,//TODO andere Koordinaten
-		"thumbnail": "1/Pois/12/thumbnail.png",//TODO thumbnail.png, 12 zu 21
-		"markerImage": "1/Pois/12/thumbnail.png",//TODO thumbnail.png, 12 zu 21
+		"locationMapLat": 52.021940,
+		"locationMapLong": 8.528417,
+		"thumbnail": "1/Pois/21/thumbnail.png",
+		"markerImage": "1/Pois/21/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -349,25 +349,25 @@
 			{
 				"name": "Sprecher",
 				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/12/audio.json"//TODO  audio.json, 12 zu 21
+				"mediaPath": "1/Pois/21/audio.json"
 			},
 			{
 				"name": "Beschreibungstext",
 				"contentType": "TEXT",
-				"mediaPath": "1/Pois/12/description.json"//TODO description.json, 12 zu 21
+				"mediaPath": "1/Pois/21/description.json"
 			},
 			{
 				"name": "Galery",
 				"contentType": "GALERY",
-				"mediaPath": "1/Pois/12/galery/galery.json"//TODO  galery.json, 12 zu 21
+				"mediaPath": "1/Pois/21/galery/galery.json"
 			}
 		]
 	},
 	{
 		"name": "Milestones",
 		"description": "... TODO",
-		"locationMapLat": 52.021234,//TODO andere Koordinaten
-		"locationMapLong": 8.539452,//TODO andere Koordinaten
+		"locationMapLat": 52.021517,
+		"locationMapLong": 8.539648,
 		"thumbnail": "1/Pois/22/thumbnail.png",
 		"markerImage": "1/Pois/22/thumbnail.png",
 		"markerIds": [
@@ -377,25 +377,25 @@
 			{
 				"name": "Sprecher",
 				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/12/audio.json"//TODO  audio.json, 12 zu 22
+				"mediaPath": "1/Pois/22/audio.json"
 			},
 			{
 				"name": "Beschreibungstext",
 				"contentType": "TEXT",
-				"mediaPath": "1/Pois/12/description.json"//TODO description.json, 12 zu 22
+				"mediaPath": "1/Pois/22/description.json"
 			},
 			{
 				"name": "Galery",
 				"contentType": "GALERY",
-				"mediaPath": "1/Pois/12/galery/galery.json"//TODO  galery.json, 12 zu 22
+				"mediaPath": "1/Pois/22/galery/galery.json"
 			}
 		]
 	},
 	{
 		"name": "Gegenüber",
 		"description": "... TODO",
-		"locationMapLat": 52.021234,//TODO andere Koordinaten
-		"locationMapLong": 8.539452,//TODO andere Koordinaten
+		"locationMapLat": 52.023287,
+		"locationMapLong": 8.539573,
 		"thumbnail": "1/Pois/23/thumbnail.png",
 		"markerImage": "1/Pois/23/thumbnail.png",
 		"markerIds": [
@@ -405,12 +405,12 @@
 			{
 				"name": "Sprecher",
 				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/12/audio.json"//TODO  audio.json, 12 zu 23
+				"mediaPath": "1/Pois/23/audio.json"
 			},
 			{
 				"name": "Beschreibungstext",
 				"contentType": "TEXT",
-				"mediaPath": "1/Pois/12/description.json"//TODO description.json, 12 zu 23
+				"mediaPath": "1/Pois/23/description.json"
 			},
 			{
 				"name": "Galery",
@@ -422,8 +422,8 @@
 	{
 		"name": "Potemkin",
 		"description": "... TODO",
-		"locationMapLat": 52.021234,//TODO andere Koordinaten
-		"locationMapLong": 8.539452,//TODO andere Koordinaten
+		"locationMapLat": 52.023038,
+		"locationMapLong": 8.540452,
 		"thumbnail": "1/Pois/24/thumbnail.png",
 		"markerImage": "1/Pois/24/thumbnail.png",
 		"markerIds": [
@@ -433,17 +433,17 @@
 			{
 				"name": "Sprecher",
 				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/12/audio.json"//TODO  audio.json, 12 zu 24
+				"mediaPath": "1/Pois/24/audio.json"
 			},
 			{
 				"name": "Beschreibungstext",
 				"contentType": "TEXT",
-				"mediaPath": "1/Pois/12/description.json"//TODO description.json, 12 zu 24
+				"mediaPath": "1/Pois/24/description.json"
 			},
 			{
 				"name": "Galery",
 				"contentType": "GALERY",
-				"mediaPath": "1/Pois/12/galery/galery.json"//TODO  galery.json, 12 zu 24
+				"mediaPath": "1/Pois/24/galery/galery.json"
 			}
 		]
 	}//TODO 25 "The Bernstein" und 26 "Katzencafe"

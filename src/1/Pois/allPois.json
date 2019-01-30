@@ -334,7 +334,119 @@
 				"mediaPath": "1/Pois/12/galery/galery.json"
 			}
 		]
-	}
+	},//ab hier nur Kunst und Kultur
+	{
+		"name": "Irish Pub",
+		"description": "... TODO",
+		"locationMapLat": 52.021234,//TODO andere Koordinaten
+		"locationMapLong": 8.539452,//TODO andere Koordinaten
+		"thumbnail": "1/Pois/12/thumbnail.png",//TODO thumbnail.png, 12 zu 21
+		"markerImage": "1/Pois/12/thumbnail.png",//TODO thumbnail.png, 12 zu 21
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/12/audio.json"//TODO  audio.json, 12 zu 21
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/12/description.json"//TODO description.json, 12 zu 21
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/12/galery/galery.json"//TODO  galery.json, 12 zu 21
+			}
+		]
+	},
+	{
+		"name": "Milestones",
+		"description": "... TODO",
+		"locationMapLat": 52.021234,//TODO andere Koordinaten
+		"locationMapLong": 8.539452,//TODO andere Koordinaten
+		"thumbnail": "1/Pois/22/thumbnail.png",
+		"markerImage": "1/Pois/22/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/12/audio.json"//TODO  audio.json, 12 zu 22
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/12/description.json"//TODO description.json, 12 zu 22
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/12/galery/galery.json"//TODO  galery.json, 12 zu 22
+			}
+		]
+	},
+	{
+		"name": "Gegenüber",
+		"description": "... TODO",
+		"locationMapLat": 52.021234,//TODO andere Koordinaten
+		"locationMapLong": 8.539452,//TODO andere Koordinaten
+		"thumbnail": "1/Pois/23/thumbnail.png",
+		"markerImage": "1/Pois/23/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/12/audio.json"//TODO  audio.json, 12 zu 23
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/12/description.json"//TODO description.json, 12 zu 23
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/23/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Potemkin",
+		"description": "... TODO",
+		"locationMapLat": 52.021234,//TODO andere Koordinaten
+		"locationMapLong": 8.539452,//TODO andere Koordinaten
+		"thumbnail": "1/Pois/24/thumbnail.png",
+		"markerImage": "1/Pois/24/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/12/audio.json"//TODO  audio.json, 12 zu 24
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/12/description.json"//TODO description.json, 12 zu 24
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/12/galery/galery.json"//TODO  galery.json, 12 zu 24
+			}
+		]
+	}//TODO 25 "The Bernstein" und 26 "Katzencafe"
 	
 
 ]

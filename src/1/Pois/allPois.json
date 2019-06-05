@@ -340,6 +340,230 @@
 		"description": "... TODO",
 		"locationMapLat": 52.021940,
 		"locationMapLong": 8.528417,
+		"thumbnail": "1/Pois/13/thumbnail.png",
+		"markerImage": "1/Pois/13/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/13/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/13/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/13/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Milestones",
+		"description": "... TODO",
+		"locationMapLat": 52.021517,
+		"locationMapLong": 8.539648,
+		"thumbnail": "1/Pois/14/thumbnail.png",
+		"markerImage": "1/Pois/14/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/14/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/14/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/14/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Gegenüber",
+		"description": "... TODO",
+		"locationMapLat": 52.023287,
+		"locationMapLong": 8.539573,
+		"thumbnail": "1/Pois/15/thumbnail.png",
+		"markerImage": "1/Pois/15/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/15/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/15/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/15/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Potemkin",
+		"description": "... TODO",
+		"locationMapLat": 52.023038,
+		"locationMapLong": 8.540452,
+		"thumbnail": "1/Pois/16/thumbnail.png",
+		"markerImage": "1/Pois/16/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/16/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/16/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/16/galery/galery.json"
+			}
+		 ]
+	},
+	{
+		"name": "Komödie",
+		"description": "... TODO",
+		"locationMapLat": 52.516181,
+		"locationMapLong": 13.376935,
+		"thumbnail": "1/Pois/17/thumbnail.png",
+		"markerImage": "1/Pois/17/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/17/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/17/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/17/galery/galery.json"
+			}
+		]
+	},
+		{
+		"name": "Süsterkirche",
+		"description": "... TODO",
+		"locationMapLat": 52.516181,
+		"locationMapLong": 13.376935,
+		"thumbnail": "1/Pois/18/thumbnail.png",
+		"markerImage": "1/Pois/18/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/18/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/18/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/18/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Kesselbrink",
+		"description": "... TODO",
+		"locationMapLat": 52.516181,
+		"locationMapLong": 13.376935,
+		"thumbnail": "1/Pois/19/thumbnail.png",
+		"markerImage": "1/Pois/19/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/19/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/19/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/19/galery/galery.json"
+			}
+		]
+	},
+		{
+		"name": "Atelier Dürkopp-Werke",
+		"description": "... TODO",
+		"locationMapLat": 52.0195679,
+		"locationMapLong": 8.5400026,
+		"thumbnail": "1/Pois/20/thumbnail.png",
+		"markerImage": "1/Pois/20/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/20/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/20/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/20/galery/galery.json"
+			}
+		]
+	},
+    {
+		"name": "Wohnanlagen Ankergärten",
+		"description": "... TODO",
+		"locationMapLat": 52.016796,
+		"locationMapLong": 8.536140,
 		"thumbnail": "1/Pois/21/thumbnail.png",
 		"markerImage": "1/Pois/21/thumbnail.png",
 		"markerIds": [
@@ -364,10 +588,10 @@
 		]
 	},
 	{
-		"name": "Milestones",
+		"name": "Kunstforum Hermann Stenner",
 		"description": "... TODO",
-		"locationMapLat": 52.021517,
-		"locationMapLong": 8.539648,
+		"locationMapLat": 52.020081,
+		"locationMapLong": 8.526593,
 		"thumbnail": "1/Pois/22/thumbnail.png",
 		"markerImage": "1/Pois/22/thumbnail.png",
 		"markerIds": [
@@ -390,12 +614,12 @@
 				"mediaPath": "1/Pois/22/galery/galery.json"
 			}
 		]
-	},
+    },
 	{
-		"name": "Gegenüber",
+		"name": "Museum Hülsmann",
 		"description": "... TODO",
-		"locationMapLat": 52.023287,
-		"locationMapLong": 8.539573,
+		"locationMapLat": 52.022638,
+		"locationMapLong": 8.545638,
 		"thumbnail": "1/Pois/23/thumbnail.png",
 		"markerImage": "1/Pois/23/thumbnail.png",
 		"markerIds": [
@@ -418,35 +642,5 @@
 				"mediaPath": "1/Pois/23/galery/galery.json"
 			}
 		]
-	},
-	{
-		"name": "Potemkin",
-		"description": "... TODO",
-		"locationMapLat": 52.023038,
-		"locationMapLong": 8.540452,
-		"thumbnail": "1/Pois/24/thumbnail.png",
-		"markerImage": "1/Pois/24/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/24/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/24/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/24/galery/galery.json"
-			}
-		]
-	}//TODO 25 "The Bernstein" und 26 "Katzencafe"
-	
-
-]
+	}
+] //TODO 25 "The Bernstein" und 26 "Katzencafe"

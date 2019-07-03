@@ -1,12 +1,28 @@
 [
 	{
 		"path" : "1/Pois/3/galery/thumbnail.png",
-		"title" : "Crüwellhaus",
+		"title" : "Alter Markt",
 		"description" : ""	
 	},	
 	{
-		"path" : "1/Pois/3/galery/galery_3_0.png",
-		"title" : "Crüwellhaus",
+		"path" : "1/Pois/3/galery/galery/Alter_Markt_1.png",
+		"title" : "Alter Markt",
+		"description" : ""	
+	},	
+	{
+		"path" : "1/Pois/3/galery/galery/Alter_Markt_2.png",
+		"title" : "Alter Markt",
+		"description" : ""	
+	},	
+	{
+		"path" : "1/Pois/3/galery/galery/Alter_Markt_3.png",
+		"title" : "Alter Markt",
+		"description" : ""	
+	},	
+	{
+		"path" : "1/Pois/3/galery/galery/Alter_Markt_4.png",
+		"title" : "Alter Markt",
 		"description" : ""	
 	}
-]
+	
+]	

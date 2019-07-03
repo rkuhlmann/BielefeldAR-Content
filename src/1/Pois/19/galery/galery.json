@@ -1,7 +1,13 @@
 [
 	{
-		"path" : "1/Pois/19/thumbnail.png",
-		"title" : "Kesselbrink",
+		"path" : "1/Pois/15/galery/Thumbnail.png",
+		"title" : "Kunstverein",
+		"description" : ""	
+	},
+	{
+		"path" : "1/Pois/15/galery/galery/Kunstverein_1.png",
+		"title" : "Kunstverein",
 		"description" : ""	
 	}
+	
 ]

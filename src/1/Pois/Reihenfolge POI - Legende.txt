@@ -1,28 +1,25 @@
 Stand 5.12
 
-Kunst und Kultur (100er Nummer):
-- [101] Kunsthalle
-- [102] Park Kunsthalle**
-- [103] Alter Markt**
-- [104] Theater am Alten Markt (TAM)**
-- [105] Leinenweberdenkmal**
-- [106] Stadttheater**
-- [107] Rathaus
-- [108] Ravensberger Park
-- [109] Historisches Museum
-- [110] Kino Lichtwerk
-- [111] Kino Kamera
-- [112] Filmhaus - Offkino
-
-
-
-Kneipen & Gasthäuser (200er Nummern):
-- [201] Irish Pub
-- [202] Milestones*
-- [203] Gegenüber
-- [204] Potemkin**
-- [205] The Bernstein*
-- [206] Katzencafe*
+Kunst und Kultur+ Kneipen und Gasthäuser
+- [1] Kunsthalle
+- [2] Park Kunsthalle**
+- [3] Alter Markt**
+- [4] Theater am Alten Markt (TAM)**
+- [5] Leinenweberdenkmal**
+- [6] Stadttheater**
+- [7] Rathaus
+- [8] Ravensberger Park
+- [9] Historisches Museum
+- [10] Kino Lichtwerk
+- [11] Kino Kamera
+- [12] Filmhaus - Offkino
+- [13] Irish Pub
+- [14] Milestones*
+- [15] Gegenüber
+- [16] Potemkin**
+- [17] Kunstforum Hermann Stenner (description und audio falsch)
+- [18] Museum Huelsmann (description und audio falsch)
+- [19] Kunstverein (description und audio falsch)
 
 
 Arminia (300er Nummern - SoSe2019):

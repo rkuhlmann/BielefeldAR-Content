@@ -2,11 +2,26 @@
 	{
 		"path" : "1/Pois/1/galery/thumbnail.png",
 		"title" : "Kunsthalle",
-		"description" : ""	
+		"description" : " "	
 	},	
 	{
-		"path" : "1/Pois/1/galery/galery_1_0.png",
+		"path" : "1/Pois/1/galery/galery/Kunsthalle_1.png",
 		"title" : "Kunsthalle",
 		"description" : ""	
-	}
+	},
+	{
+		"path" : "1/Pois/1/galery/galery/Kunsthalle_2.png",
+		"title" : "Kunsthalle",
+		"description" : ""	
+	},
+	{
+		"path" : "1/Pois/1/galery/galery/Kunsthalle_3.png",
+		"title" : "Kunsthalle",
+		"description" : ""	
+	},
+{
+		"path" : "1/Pois/1/galery/galery/Kunsthalle_4.png",
+		"title" : "Kunsthalle",
+		"description" : ""	
+	}		
 ]

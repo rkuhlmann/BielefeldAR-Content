@@ -1,7 +1,24 @@
 [
 	{
-		"path" : "1/Pois/17/thumbnail.png",
-		"title" : "Komödie",
+		"path" : "1/Pois/13/galery/Thumbnail.png",
+		"title" : "Kunstforum Hermann ",
+		"description" : ""	
+	},
+	{
+		"path" : "1/Pois/13/galery/galery/Kunstforum_Hermann_Stenner_1.png",
+		"title" : "Kunstforum Hermann ",
+		"description" : ""	
+	},
+	{
+		"path" : "1/Pois/13/galery/galery/Kunstforum_Hermann_Stenner_2.png",
+		"title" : "Kunstforum Hermann ",
+		"description" : ""	
+	},
+	{
+		"path" : "1/Pois/13/galery/galery/Kunstforum_Hermann_Stenner_3.png",
+		"title" : "Kunstforum Hermann ",
 		"description" : ""	
 	}
+	
+
 ]

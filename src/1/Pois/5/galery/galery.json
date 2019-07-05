@@ -1,37 +1,18 @@
 [
 	{
 		"path" : "1/Pois/5/galery/thumbnail.png",
-		"title" : "Leineweberdenkmal",
+		"title" : "Stadttheater",
+		"description" : ""	
+	},
+
+	{
+		"path" : "1/Pois/5/galery/galery/Stadttheater_1.png",
+		"title" : "Stadttheater",
 		"description" : ""	
 	},
 	{
-		"path" : "1/Pois/5/galery/galery_5_0.png",
-		"title" : "Leineweberdenkmal",
+		"path" : "1/Pois/5/galery/galery/Stadttheater_2.png",
+		"title" : "Stadttheater",
 		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/5/galery/galery/Leinenweberdenkmal_1.png",
-		"title" : "Leineweberdenkmal",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/5/galery/galery/Leinenweberdenkmal_2.png",
-		"title" : "Leineweberdenkmal",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/5/galery/galery/Leinenweberdenkmal_3.png",
-		"title" : "Leineweberdenkmal",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/5/galery/galery/Leinenweberdenkmal_4.png",
-		"title" : "Leineweberdenkmal",
-		"description" : ""	
-	},
-	{
-		"path" : "1/Pois/5/galery/galery/Leinenweberdenkmal_5.png",
-		"title" : "Leineweberdenkmal",
-		"description" : ""	
-	}
+		}
 ]

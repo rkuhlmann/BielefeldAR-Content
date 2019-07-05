@@ -1,7 +1,13 @@
 [
 	{
-		"path" : "1/Pois/22/thumbnail.png",
-		"title" : "Kesselbrink",
+		"path" : "1/Pois/21/galery/Thumbnail.png",
+		"title" : "Irish Pub",
+		"description" : ""	
+	},
+	{
+		"path" : "1/Pois/21/galery/galery/Irish_Pub_1.png",
+		"title" : "Irish Pub",
 		"description" : ""	
 	}
+	
 ]

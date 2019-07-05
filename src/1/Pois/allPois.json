@@ -2,8 +2,8 @@
 	{
 		"name": "Kunsthalle",
 		"description": "Die bielefelder Kunsthalle....",
-		"locationMapLat": 52.018156,
-		"locationMapLong": 8.525783,
+		"locationMapLat": 52.0181226,
+		"locationMapLong": 8.526148,
 		"thumbnail": "1/Pois/1/thumbnail.png",
 		"markerImage": "1/Pois/1/thumbnail.png",
 		"markerIds": [
@@ -58,7 +58,7 @@
 	{
 		"name": "Alter Markt",
 		"description": "Der alte Markt... TODO",
-		"locationMapLat": 52.020394,
+		"locationMapLat": 52.0205,
 		"locationMapLong": 8.532010,
 		"thumbnail": "1/Pois/3/thumbnail.png",
 		"markerImage": "1/Pois/3/thumbnail.png",
@@ -86,8 +86,8 @@
 	{
 		"name": "Theater am Alten Markt",
 		"description": "... TODO",
-		"locationMapLat": 52.020509,
-		"locationMapLong": 8.531994,
+		"locationMapLat": 52.020618,
+		"locationMapLong": 8.5319841,
 		"thumbnail": "1/Pois/4/thumbnail.png",
 		"markerImage": "1/Pois/4/thumbnail.png",
 		"markerIds": [
@@ -111,11 +111,12 @@
 			}
 		]
 	},
+	
 	{
-		"name": "Leineweberdenkmal",
+		"name": "Stadttheater",
 		"description": "... TODO",
-		"locationMapLat": 52.021196,
-		"locationMapLong": 8.532866,
+		"locationMapLat": 52.0207447,
+		"locationMapLong": 8.5352704,
 		"thumbnail": "1/Pois/5/thumbnail.png",
 		"markerImage": "1/Pois/5/thumbnail.png",
 		"markerIds": [
@@ -140,10 +141,10 @@
 		]
 	},
 	{
-		"name": "Stadttheater",
+		"name": "Leineweberdenkmal",
 		"description": "... TODO",
-		"locationMapLat": 52.020660,
-		"locationMapLong": 8.534918,
+		"locationMapLat": 52.021196,
+		"locationMapLong": 8.532866,
 		"thumbnail": "1/Pois/6/thumbnail.png",
 		"markerImage": "1/Pois/6/thumbnail.png",
 		"markerIds": [
@@ -223,90 +224,7 @@
 			}
 		]
 	},
-	{
-		"name": "Historisches Museum",
-		"description": "... TODO",
-		"locationMapLat": 52.022428,
-		"locationMapLong": 8.544155,
-		"thumbnail": "1/Pois/9/thumbnail.png",
-		"markerImage": "1/Pois/9/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/9/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/9/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/9/galery/galery.json"
-			}
-		]
-	},
-	{
-		"name": "Lichtwerk",
-		"description": "... TODO",
-		"locationMapLat": 52.022171,
-		"locationMapLong": 8.544520,
-		"thumbnail": "1/Pois/10/thumbnail.png",
-		"markerImage": "1/Pois/10/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/10/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/10/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/10/galery/galery.json"
-			}
-		]
-	},
-	{
-		"name": "Kamera",
-		"description": "... TODO",
-		"locationMapLat": 52.027290,
-		"locationMapLong": 8.534039,
-		"thumbnail": "1/Pois/11/thumbnail.png",
-		"markerImage": "1/Pois/11/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/11/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/11/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/11/galery/galery.json"
-			}
-		]
-	},
+	
 	{
 		"name": "Filmhaus",
 		"description": "... TODO",
@@ -336,10 +254,95 @@
 		]
 	},
 	{
-		"name": "Irish Pub",
+		"name": "Kamera",
 		"description": "... TODO",
-		"locationMapLat": 52.021940,
-		"locationMapLong": 8.528417,
+		"locationMapLat": 52.027290,
+		"locationMapLong": 8.534039,
+		"thumbnail": "1/Pois/10/thumbnail.png",
+		"markerImage": "1/Pois/10/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/10/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/10/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/10/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Lichtwerk",
+		"description": "... TODO",
+		"locationMapLat": 52.0222281,
+		"locationMapLong": 8.5446141,
+		"thumbnail": "1/Pois/11/thumbnail.png",
+		"markerImage": "1/Pois/11/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/11/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/11/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/11/galery/galery.json"
+			}
+		]
+	},
+	{
+		"name": "Historisches Museum",
+		"description": "... TODO",
+		"locationMapLat": 52.022428,
+		"locationMapLong": 8.544155,
+		"thumbnail": "1/Pois/9/thumbnail.png",
+		"markerImage": "1/Pois/9/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/9/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/9/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/9/galery/galery.json"
+			}
+		]
+	},
+	
+	{
+		"name": "Museum Hülsmann",
+		"description": "... TODO",
+		"locationMapLat": 52.02244818453637,
+		"locationMapLong": 8.545732498168945,
 		"thumbnail": "1/Pois/13/thumbnail.png",
 		"markerImage": "1/Pois/13/thumbnail.png",
 		"markerIds": [
@@ -359,15 +362,15 @@
 			{
 				"name": "Galery",
 				"contentType": "GALERY",
-				"mediaPath": "1/Pois/13/galery/galery.json"
+				"mediaPath": "1/Pois/13/galery/galery.json"  
 			}
 		]
-	},
+	}, 
 	{
-		"name": "Milestones",
+		"name": "Kunstforum Hermann Stenner",
 		"description": "... TODO",
-		"locationMapLat": 52.021517,
-		"locationMapLong": 8.539648,
+		"locationMapLat": 52.0199516,
+		"locationMapLong": 8.5267137,
 		"thumbnail": "1/Pois/14/thumbnail.png",
 		"markerImage": "1/Pois/14/thumbnail.png",
 		"markerIds": [
@@ -390,12 +393,13 @@
 				"mediaPath": "1/Pois/14/galery/galery.json"
 			}
 		]
-	},
+    },
+	
 	{
-		"name": "Gegenüber",
+		"name": "Milestones",
 		"description": "... TODO",
-		"locationMapLat": 52.023287,
-		"locationMapLong": 8.539573,
+		"locationMapLat": 52.0213034,
+		"locationMapLong": 8.5396294,
 		"thumbnail": "1/Pois/15/thumbnail.png",
 		"markerImage": "1/Pois/15/thumbnail.png",
 		"markerIds": [
@@ -446,201 +450,8 @@
 				"mediaPath": "1/Pois/16/galery/galery.json"
 			}
 		 ]
-	},
-	{
-		"name": "Komödie",
-		"description": "... TODO",
-		"locationMapLat": 52.516181,
-		"locationMapLong": 13.376935,
-		"thumbnail": "1/Pois/17/thumbnail.png",
-		"markerImage": "1/Pois/17/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/17/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/17/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/17/galery/galery.json"
-			}
-		]
-	},
-		{
-		"name": "Süsterkirche",
-		"description": "... TODO",
-		"locationMapLat": 52.516181,
-		"locationMapLong": 13.376935,
-		"thumbnail": "1/Pois/18/thumbnail.png",
-		"markerImage": "1/Pois/18/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/18/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/18/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/18/galery/galery.json"
-			}
-		]
-	},
-	{
-		"name": "Kesselbrink",
-		"description": "... TODO",
-		"locationMapLat": 52.516181,
-		"locationMapLong": 13.376935,
-		"thumbnail": "1/Pois/19/thumbnail.png",
-		"markerImage": "1/Pois/19/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/19/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/19/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/19/galery/galery.json"
-			}
-		]
-	},
-		{
-		"name": "Atelier Dürkopp-Werke",
-		"description": "... TODO",
-		"locationMapLat": 52.0195679,
-		"locationMapLong": 8.5400026,
-		"thumbnail": "1/Pois/20/thumbnail.png",
-		"markerImage": "1/Pois/20/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/20/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/20/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/20/galery/galery.json"
-			}
-		]
-	},
-    {
-		"name": "Wohnanlagen Ankergärten",
-		"description": "... TODO",
-		"locationMapLat": 52.016796,
-		"locationMapLong": 8.536140,
-		"thumbnail": "1/Pois/21/thumbnail.png",
-		"markerImage": "1/Pois/21/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/21/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/21/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/21/galery/galery.json"
-			}
-		]
-	},
-	{
-		"name": "Kunstforum Hermann Stenner",
-		"description": "... TODO",
-		"locationMapLat": 52.020081,
-		"locationMapLong": 8.526593,
-		"thumbnail": "1/Pois/22/thumbnail.png",
-		"markerImage": "1/Pois/22/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/22/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/22/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/22/galery/galery.json"
-			}
-		]
-    },
-	{
-		"name": "Museum Hülsmann",
-		"description": "... TODO",
-		"locationMapLat": 52.022638,
-		"locationMapLong": 8.545638,
-		"thumbnail": "1/Pois/23/thumbnail.png",
-		"markerImage": "1/Pois/23/thumbnail.png",
-		"markerIds": [
-			"marker2"
-		],
-		"contents": [
-			{
-				"name": "Sprecher",
-				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/23/audio.json"
-			},
-			{
-				"name": "Beschreibungstext",
-				"contentType": "TEXT",
-				"mediaPath": "1/Pois/23/description.json"
-			},
-			{
-				"name": "Galery",
-				"contentType": "GALERY",
-				"mediaPath": "1/Pois/23/galery/galery.json"
-			}
-		]
 	}
-] //TODO 25 "The Bernstein" und 26 "Katzencafe"
+	
+] 
+
+

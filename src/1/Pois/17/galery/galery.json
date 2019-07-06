@@ -1,7 +1,12 @@
 [
 	{
 		"path" : "1/Pois/17/thumbnail.png",
-		"title" : "Bernstein",
+		"title" : Bernstein,
+		"description" : ""	
+	},
+	{
+		"path" : "1/Pois/17/galery/The_Bernstein_1.png",
+		"title" : Bernstein,
 		"description" : ""	
 	}
 ]

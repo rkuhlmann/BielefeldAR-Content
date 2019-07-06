@@ -1,26 +1,31 @@
 [
 	{
-		"path" : "1/Pois/3/galery/thumbnail.png",
+		"path" : "1/Pois/3/thumbnail.png",
 		"title" : "Alter Markt",
 		"description" : ""	
 	},	
 	{
-		"path" : "1/Pois/3/galery/galery/Alter_Markt_1.png",
+		"path" : "1/Pois/3/galery/Alter_Markt_1.png",
 		"title" : "Alter Markt",
 		"description" : ""	
 	},	
 	{
-		"path" : "1/Pois/3/galery/galery/Alter_Markt_2.png",
+		"path" : "1/Pois/3/galery/Alter_Markt_2.png",
 		"title" : "Alter Markt",
 		"description" : ""	
 	},	
 	{
-		"path" : "1/Pois/3/galery/galery/Alter_Markt_3.png",
+		"path" : "1/Pois/3/galery/Alter_Markt_3.png",
 		"title" : "Alter Markt",
 		"description" : ""	
 	},	
 	{
-		"path" : "1/Pois/3/galery/galery/Alter_Markt_4.png",
+		"path" : "1/Pois/3/galery/Alter_Markt_4.png",
+		"title" : "Alter Markt",
+		"description" : ""	
+	},
+	{
+		"path" : "1/Pois/3/galery/Alter_Markt_5.png",
 		"title" : "Alter Markt",
 		"description" : ""	
 	}

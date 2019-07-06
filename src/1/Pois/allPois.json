@@ -224,14 +224,14 @@
 			}
 		]
 	},
-	
+
 	{
 		"name": "Filmhaus",
 		"description": "... TODO",
 		"locationMapLat": 52.021234,
 		"locationMapLong": 8.539452,
-		"thumbnail": "1/Pois/12/thumbnail.png",
-		"markerImage": "1/Pois/12/thumbnail.png",
+		"thumbnail": "1/Pois/9/thumbnail.png",
+		"markerImage": "1/Pois/9/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -239,17 +239,17 @@
 			{
 				"name": "Sprecher",
 				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/12/audio.json"
+				"mediaPath": "1/Pois/9/audio.json"
 			},
 			{
 				"name": "Beschreibungstext",
 				"contentType": "TEXT",
-				"mediaPath": "1/Pois/12/description.json"
+				"mediaPath": "1/Pois/9/description.json"
 			},
 			{
 				"name": "Galery",
 				"contentType": "GALERY",
-				"mediaPath": "1/Pois/12/galery/galery.json"
+				"mediaPath": "1/Pois/9/galery/galery.json"
 			}
 		]
 	},
@@ -309,13 +309,15 @@
 			}
 		]
 	},
+
+	
 	{
 		"name": "Historisches Museum",
 		"description": "... TODO",
 		"locationMapLat": 52.022428,
 		"locationMapLong": 8.544155,
-		"thumbnail": "1/Pois/9/thumbnail.png",
-		"markerImage": "1/Pois/9/thumbnail.png",
+		"thumbnail": "1/Pois/12/thumbnail.png",
+		"markerImage": "1/Pois/12/thumbnail.png",
 		"markerIds": [
 			"marker2"
 		],
@@ -323,17 +325,17 @@
 			{
 				"name": "Sprecher",
 				"contentType": "AUDIO",
-				"mediaPath": "1/Pois/9/audio.json"
+				"mediaPath": "1/Pois/12/audio.json"
 			},
 			{
 				"name": "Beschreibungstext",
 				"contentType": "TEXT",
-				"mediaPath": "1/Pois/9/description.json"
+				"mediaPath": "1/Pois/12/description.json"
 			},
 			{
 				"name": "Galery",
 				"contentType": "GALERY",
-				"mediaPath": "1/Pois/9/galery/galery.json"
+				"mediaPath": "1/Pois/12/galery/galery.json"
 			}
 		]
 	},
@@ -448,6 +450,34 @@
 				"name": "Galery",
 				"contentType": "GALERY",
 				"mediaPath": "1/Pois/16/galery/galery.json"
+			}
+		 ]
+	},
+	{
+		"name": "The Bernstein",
+		"description": "... TODO",
+		"locationMapLat": 52.0223996,
+		"locationMapLong": 8.5327498,
+		"thumbnail": "1/Pois/17/thumbnail.png",
+		"markerImage": "1/Pois/17/thumbnail.png",
+		"markerIds": [
+			"marker2"
+		],
+		"contents": [
+			{
+				"name": "Sprecher",
+				"contentType": "AUDIO",
+				"mediaPath": "1/Pois/17/audio.json"
+			},
+			{
+				"name": "Beschreibungstext",
+				"contentType": "TEXT",
+				"mediaPath": "1/Pois/17/description.json"
+			},
+			{
+				"name": "Galery",
+				"contentType": "GALERY",
+				"mediaPath": "1/Pois/17/galery/galery.json"
 			}
 		 ]
 	}

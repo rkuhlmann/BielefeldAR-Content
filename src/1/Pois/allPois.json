@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Kunsthalle",
-		"description": "Die bielefelder Kunsthalle....",
+		"description": "Kultur",
 		"locationMapLat": 52.0181226,
 		"locationMapLong": 8.526148,
 		"thumbnail": "1/Pois/1/thumbnail.png",
@@ -29,7 +29,7 @@
 	},
 	{
 		"name": "Kunsthallenpark",
-		"description": "Der Kunsthallenpark neben der Kunsthalle...",
+		"description": "Kultur",
 		"locationMapLat": 52.018707,
 		"locationMapLong": 8.526739,
 		"thumbnail": "1/Pois/2/thumbnail.png",
@@ -57,7 +57,7 @@
 	},
 	{
 		"name": "Alter Markt",
-		"description": "Der alte Markt... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.0205,
 		"locationMapLong": 8.532010,
 		"thumbnail": "1/Pois/3/thumbnail.png",
@@ -85,7 +85,7 @@
 	},
 	{
 		"name": "Theater am Alten Markt",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.020618,
 		"locationMapLong": 8.5319841,
 		"thumbnail": "1/Pois/4/thumbnail.png",
@@ -114,7 +114,7 @@
 	
 	{
 		"name": "Stadttheater",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.0207447,
 		"locationMapLong": 8.5352704,
 		"thumbnail": "1/Pois/5/thumbnail.png",
@@ -137,12 +137,22 @@
 				"name": "Galery",
 				"contentType": "GALERY",
 				"mediaPath": "1/Pois/5/galery/galery.json"
+			},
+			{
+				"name": "Videos",
+				"contentType": "VIDEOS",
+				"mediaPath": "1/Pois/5/videos/videos.json"
+			},
+			{
+				"name": "D360",
+				"contentType": "D360",
+				"mediaPath": "1/Pois/5/D360/D360.json"
 			}
 		]
 	},
 	{
 		"name": "Leineweberdenkmal",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.021196,
 		"locationMapLong": 8.532866,
 		"thumbnail": "1/Pois/6/thumbnail.png",
@@ -170,7 +180,7 @@
 	},
 	{
 		"name": "Rathaus",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.021102,
 		"locationMapLong": 8.534961,
 		"thumbnail": "1/Pois/7/thumbnail.png",
@@ -198,7 +208,7 @@
 	},
 	{
 		"name": "Ravensberger Park",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.022474,
 		"locationMapLong": 8.545222,
 		"thumbnail": "1/Pois/8/thumbnail.png",
@@ -227,7 +237,7 @@
 
 	{
 		"name": "Filmhaus",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.021234,
 		"locationMapLong": 8.539452,
 		"thumbnail": "1/Pois/9/thumbnail.png",
@@ -255,7 +265,7 @@
 	},
 	{
 		"name": "Kamera",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.027290,
 		"locationMapLong": 8.534039,
 		"thumbnail": "1/Pois/10/thumbnail.png",
@@ -283,7 +293,7 @@
 	},
 	{
 		"name": "Lichtwerk",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.0222281,
 		"locationMapLong": 8.5446141,
 		"thumbnail": "1/Pois/11/thumbnail.png",
@@ -313,7 +323,7 @@
 	
 	{
 		"name": "Historisches Museum",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.022428,
 		"locationMapLong": 8.544155,
 		"thumbnail": "1/Pois/12/thumbnail.png",
@@ -342,7 +352,7 @@
 	
 	{
 		"name": "Museum Hülsmann",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.02244818453637,
 		"locationMapLong": 8.545732498168945,
 		"thumbnail": "1/Pois/13/thumbnail.png",
@@ -370,7 +380,7 @@
 	}, 
 	{
 		"name": "Kunstforum Hermann Stenner",
-		"description": "... TODO",
+		"description": "Kultur",
 		"locationMapLat": 52.0199516,
 		"locationMapLong": 8.5267137,
 		"thumbnail": "1/Pois/14/thumbnail.png",
@@ -399,7 +409,7 @@
 	
 	{
 		"name": "Milestones",
-		"description": "... TODO",
+		"description": "Kneipe",
 		"locationMapLat": 52.0213034,
 		"locationMapLong": 8.5396294,
 		"thumbnail": "1/Pois/15/thumbnail.png",
@@ -427,7 +437,7 @@
 	},
 	{
 		"name": "Potemkin",
-		"description": "... TODO",
+		"description": "Kneipe",
 		"locationMapLat": 52.023038,
 		"locationMapLong": 8.540452,
 		"thumbnail": "1/Pois/16/thumbnail.png",
@@ -455,7 +465,7 @@
 	},
 	{
 		"name": "The Bernstein",
-		"description": "... TODO",
+		"description": "Kneipe",
 		"locationMapLat": 52.0223996,
 		"locationMapLong": 8.5327498,
 		"thumbnail": "1/Pois/17/thumbnail.png",
